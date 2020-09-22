@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple Audio Recorder</string>
+    <string name="file_name">Recording</string>
+    <string name="isRecording">isRecording</string>
+    <string name="fromService">fromService</string>
+    <string name="pausePlay">pausePlay</string>
+    <string name="recording">Recording....</string>
+</resources>
